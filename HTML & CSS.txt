@@ -1,0 +1,15 @@
+Semantic HTML Tag
+difference between html and html5
+new feature in html5
+
+Difference between Relative and Absolute
+what is flex box *
+what is Box model *
+difference between id and class
+which one more priority id and class
+media queries in css
+difference between margin and padding
+do you know about preprocesser 
+and understand sass or less
+
+

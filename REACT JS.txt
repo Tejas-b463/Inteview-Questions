@@ -1,0 +1,24 @@
+Virtual DOM
+Advantages of React Js
+One way data binding
+Data different components
+how redux works
+highere order components  
+tell me about life cycle method *
+handle function components 
+
+what is react js
+feature in react js
+do you know about jsx
+browser directly understand jsx 
+do you about webpad
+can we achieve thos thing in functional components
+which hook you can use to
+what is raps
+control and uncontrol components
+difference between stack and props
+what is router
+do you know about side rendring 
+do you know about optimization performance on web application
+difference between DOM Virtual and Real DOM
+

@@ -1,0 +1,27 @@
+Event Loop *
+Promise and set time out which one execute first
+do you know about promise
+what is call back function *
+use call back
+What is DOM
+What is Hoisting in Js
+what is closures *
+what is call back Hell
+how many parameters in Hoisting
+map(), filter(), reduce() *
+how many scope in js
+call bind and apply
+what is this keyword *
+difference between arrow function and normal function *
+what is memorization
+spread and rest operator
+let, const and var difference
+what is ajax
+difference between null and undefined
+just tell me some new feature in ES6
+arrow function is hoisted or not?
+what is high order function
+
+
+
+
