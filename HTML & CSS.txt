@@ -11,5 +11,6 @@ media queries in css
 difference between margin and padding
 do you know about preprocesser 
 and understand sass or less
+difference between http and https
 
 
