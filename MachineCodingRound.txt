@@ -1,0 +1,2 @@
+1. Implement an infinite scroll -> loader, api call, data show, short, filter
+2. frontend for email app -->

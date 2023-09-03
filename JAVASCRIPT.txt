@@ -1,19 +1,19 @@
-Event Loop *
+Event Loop ***
 Promise and set time out which one execute first
 do you know about promise
 promises.all
 what is call back function *
 use call back
 What is DOM
-What is Hoisting in Js *
+What is Hoisting in Js ***
 All the Variable move top of the code are all the variable declared with the var of the code
-what is closures *
+what is closures ***
 what is call back Hell
 how many parameters in Hoisting
-map(), filter(), reduce() *
+map(), filter(), reduce() ***
 how many scope in js
 call bind and apply
-what is this keyword *
+what is this keyword ***
 difference between arrow function and normal function *
 what is memorization
 spread and rest operator
@@ -29,6 +29,21 @@ what is high order function
 difference between set time out and set time interval
 set interval function kind of loop so can you tell me what kind of loop finite and infinite
 tell me about shallow copy and deep copy in js
+async await ***
+
+
+Related Job Interview Questions
+1.Set Time Out Zero -> Event Loop promise.resolve(), micro task
+2.placement of js files -> asny and defer, critical rendering block
+3. Let const and varr Difference -> block scoping
+4.closure -> what is? programming explain? example ?
+5.functional programming -> map, filter, reduce,compose,curring-- example and polyfill likhna, usage
+6.this -> call bind apply , this , arrow function 
+7.framworks questions -> react, angular,vue choose one
+next js and react which one choose
+ssr ssg and spa used faydeman hai
+8.prototypical inheritance -> multilevel inheritannce, 9.promises , async await, paraell request, promise implementation, state management, callback
+10. debounce vs throttle
 
 
 
