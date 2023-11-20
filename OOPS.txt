@@ -1,0 +1,28 @@
+what is oops and why is important
+
+
+OOPS - OOP stand for object oriented programming language. It is programming paradigm that based on classes and object.
+oops integrates real-world conceps into programming such ase inheritance, ploymorphism and abstration.
+
+important -
+1. oops allows more clarity
+2. oops reduces redundancy
+3. oops provides ability to bind both data and code together
+4.imporoves code readability
+
+programming paradigm - code likhne ka structure, style kaise haii
+
+what are classes and objects
+class - classes is a blueprint of an object. classes make it easier to create constructor functions and manage prototypes.
+inside class we can define variables, constants, member function etc.
+
+object - object is a real time entity like table, chair, fan and bench etc.
+
+constructor -constructor is a special method of a class for creating and intializing of a class or object.
+
+4 pillar in oops 
+inheritance -
+abstraction -
+polymorphism -
+encapsulation - 
+

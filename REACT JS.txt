@@ -21,4 +21,8 @@ what is router
 do you know about side rendring 
 do you know about optimization performance on web application
 difference between DOM Virtual and Real DOM
+differcence between local storage and session storage
+why react is so popular
+folder structure used in your project
+
 
