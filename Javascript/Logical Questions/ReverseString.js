@@ -11,8 +11,11 @@ console.log(output);
 
 const name = "Tejas";
 
-function reverStr(str) {
+function reverseString(str) {
+    let output = ''
     for (let i = name.length - 1; i >= 0; i--) {
-        console.log(str[i])
+        output = output + str[i]
     }
+    return output
 }
+console.log(reverseString(name))
