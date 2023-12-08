@@ -13,4 +13,4 @@ const arr1 = [];
 for (let i = num.length - 1; i >= 0; i--) {
     arr1.push(num[i])
 }
-console.log(arr1)
+console.log(arr1);
