@@ -1,20 +1,20 @@
 Event Loop ***
-Promise and set time out which one execute first
+Promise and set time out which one execute first*
 do you know about promise
 promises.all
-what is call back function *
+what is call back function **
 use call back
 What is DOM
-What is Hoisting in Js ***
+What is Hoisting in Js ****
 All the Variable move top of the code are all the variable declared with the var of the code
 what is closures ***
 what is call back Hell
 how many parameters in Hoisting
-map(), filter(), reduce() ***
+map(), filter(), reduce() ****
 how many scope in js
-call bind and apply
-what is this keyword ***
-difference between arrow function and normal function *
+call bind and apply*
+what is this keyword ****
+difference between arrow function and normal function **
 what is memorization
 spread and rest operator
 difference between spread and rest operator
@@ -30,7 +30,8 @@ difference between set time out and set time interval
 set interval function kind of loop so can you tell me what kind of loop finite and infinite
 tell me about shallow copy and deep copy in js
 async await ***
-
+differnce between real dom and virtual dom
+do you know props drilling
 
 Related Job Interview Questions
 1.Set Time Out Zero -> Event Loop promise.resolve(), micro task
