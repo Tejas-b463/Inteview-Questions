@@ -76,9 +76,11 @@
 // console.log(fruit())
 
 // 13
-function sum(a, b) {
-    return a + b
-}
-console.log(sum(1, "2"))
+// function sum(a, b) {
+//     return a + b
+// }
+// console.log(sum(1, "2"))
 
-console.log("1" + "2")
+// console.log("1" + "2")
+
+// 14
