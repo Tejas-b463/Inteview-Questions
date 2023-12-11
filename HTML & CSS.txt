@@ -1,7 +1,6 @@
 Semantic HTML Tag*
 difference between html and html5
 new feature in html5
-meta tag
 
 Difference between Relative and Absolute
 what is flex box *
@@ -13,6 +12,7 @@ difference between margin and padding
 do you know about preprocesser 
 and understand sass or less
 difference between http and https
-pseudo class and element
+pseudo element and class
+meta tag
 
 

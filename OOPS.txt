@@ -1,5 +1,9 @@
 what is oops and why is important
-
+you familar with oops concept
+features oops
+what is encapsulation
+what is inheritance
+how many types of inheritance
 
 OOPS - OOP stand for object oriented programming language. It is programming paradigm that based on classes and object.
 oops integrates real-world conceps into programming such ase inheritance, ploymorphism and abstration.

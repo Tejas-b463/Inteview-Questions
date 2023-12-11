@@ -16,35 +16,62 @@ call bind and apply*
 what is this keyword ****
 difference between arrow function and normal function **
 what is memorization
-spread and rest operator
+what is spread and rest operator
 difference between spread and rest operator
 let, const and var difference
 difference between variable declare with let keyword variable declared with var keyword
 what is ajax
-difference between null and undefined
 just tell me some new feature in ES6
 know about term ES6 and new features in ES6
 arrow function is hoisted or not?
 what is high order function
-difference between set time out and set time interval
-set interval function kind of loop so can you tell me what kind of loop finite and infinite
+difference between set time out and set time interval**
+set interval function kind of loop so can you tell me what kind of loop finite and infinite popular functions used in js**
 tell me about shallow copy and deep copy in js
 async await ***
-differnce between real dom and virtual dom
-do you know props drilling
+do you know props drilling***
+undefined and null ***
+typeOf underfined and null
+tell me javascript is statically and dynamically type of language.
+comments in javascript
+purpose of using comments - make the code more readable.
+explain difference between == and === ***
+what are HOC
+difference between virtual and real dom and which is react using***
+why do use react how is to better than other framework**
 
-Related Job Interview Questions
-1.Set Time Out Zero -> Event Loop promise.resolve(), micro task
-2.placement of js files -> asny and defer, critical rendering block
-3. Let const and varr Difference -> block scoping
-4.closure -> what is? programming explain? example ?
-5.functional programming -> map, filter, reduce,compose,curring-- example and polyfill likhna, usage
-6.this -> call bind apply , this , arrow function 
-7.framworks questions -> react, angular,vue choose one
-next js and react which one choose
-ssr ssg and spa used faydeman hai
-8.prototypical inheritance -> multilevel inheritannce, 9.promises , async await, paraell request, promise implementation, state management, callback
-10. debounce vs throttle
+Output Questions :
+2 == "2" 
+2 === "2"
+
+console.log(a);
+var a = 5;
+console.log(a)
+
+console.log(foo())
+function foo(){
+return "Hello world"
+}
+
+
+console.log(foo())
+const foo = () =>{
+return "Hello World"
+}
+
+syntax questions :
+can you write a syntax for loop
+disible by 3 - print fizz
+divisible by 5 - print buzz
+3 & 5 = fizzbuzz
+
+write the programme fibonacci series for 10 number.
+0 1 1 2 3 5 8 13 
+
+
+
+
+
 
 
 

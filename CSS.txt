@@ -1,0 +1,24 @@
+/* CSS */
+
+Box Model - box model consists of padding, border, margin and content
+
+content - actul content of the box are text images is placed.
+padding - area surrounding the content
+border - area surrounding the padding
+margin - area surrounding the border
+
+outline - allows to draw a line around the element outside the border
+
+display is used to hide, show and flex, grid the content
+
+flex - flex properties sets the flexible length on flexible items. 
+
+grid - grid properties is dividing a pages 
+
+z-index is positioned the element and its descendants flex items.
+
+Position - position property is set the element postioned in document.
+absolute, relative, static, sticky, fixed 
+
+overflow - overflow controls the big content.
+hidden, visible, scroll
