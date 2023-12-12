@@ -36,9 +36,7 @@ tell me javascript is statically and dynamically type of language.
 comments in javascript
 purpose of using comments - make the code more readable.
 explain difference between == and === ***
-what are HOC
-difference between virtual and real dom and which is react using***
-why do use react how is to better than other framework**
+
 
 Output Questions :
 2 == "2" 
