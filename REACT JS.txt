@@ -1,9 +1,10 @@
-Virtual DOM
+Virtual DOM**
 Advantages of React Js
 why you use react
 which are the main features are react
-One way data binding
-Data different components
+One way data binding Data 
+different components - purpose
+difference between componenets - class and functional
 how redux works
 what is redux
 how to decide fixed state put in redux and directly use
@@ -15,8 +16,8 @@ feature in react js
 do you know about jsx
 browser directly understand jsx 
 do you about webpack
-can we achieve those thing in functional components
-which hook you can use to*
+which hook you can use to**
+can you make a counter***
 do you about more hooks
 what is hooks*
 difference between usecallback and usememo
@@ -24,13 +25,14 @@ can you gives example use effect use
 what is raps
 control and uncontrol components**
 difference between state and props**
-what is state, about state
+what is state***, about state
 type of components
 define a state how can i do in class and functional 
 components.
 define the state in class components
-what is props**
+what is props***
 what is router
+what is context api you use context api and why where use context api hooks*
 do you know about side rendring 
 do you know about optimization performance on web application
 difference between DOM Virtual and Real DOM****
@@ -40,18 +42,26 @@ folder structure used in your project
 what is higher order function***
 what are the pure components*
 tell me about redux
-two buttons increment and decrements increment the count and decrement the count to click the button - write code
-create same functionality in javascript.
+dispath in redux
+what is reducer
 how many type of loops in js
 do you know about context
 you familar with redux-toolkit
-
-
-
-
+what are HOC
+difference between virtual and real dom and which is react using***
+why do use react how is to better than other framework**
+why you are using react another framework
 
 how to pass data to the nested components
-do you about props drilling
+do you about props drilling*
 alternative to avoid the props drilling 
 props drilling good thing or bad
 how event handling possible in react
+why we use class in case of className - class is reserve keyword in js
+why we use key in react - mainly use for mapping.
+what are fragments
+do you know reconcillation
+
+Pratical - 
+Click the button increment and decrement
+create same functionality in javascript. 

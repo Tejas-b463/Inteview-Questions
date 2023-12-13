@@ -1,7 +1,11 @@
+HTML -
 Semantic HTML Tag*
 difference between html and html5
-new feature in html5
+new feature in html
+inline and block tag
+html tag and element
 
+CSS -
 Difference between Relative and Absolute
 what is flex box *
 what is Box model *
@@ -14,5 +18,9 @@ and understand sass or less
 difference between http and https
 pseudo element and class
 meta tag
+position
+
+TAsk -
+1. Center Div using position
 
 

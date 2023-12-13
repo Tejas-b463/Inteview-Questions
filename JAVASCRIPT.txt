@@ -29,13 +29,16 @@ difference between set time out and set time interval**
 set interval function kind of loop so can you tell me what kind of loop finite and infinite popular functions used in js**
 tell me about shallow copy and deep copy in js
 async await ***
-do you know props drilling***
 undefined and null ***
 typeOf underfined and null
 tell me javascript is statically and dynamically type of language.
 comments in javascript
 purpose of using comments - make the code more readable.
 explain difference between == and === ***
+data types
+session storage and local storage - they are web apis**
+difference between splice and splice read array methods**
+difference between while loop and dowhile loop
 
 
 Output Questions :
@@ -57,7 +60,25 @@ const foo = () =>{
 return "Hello World"
 }
 
-syntax questions :
+console.log(10+"20")
+console.log(10-"20")
+console.log("1"+2+2) - "1"+2 - "12"+2 -
+console.log(1+2+"2")
+
+let x =5;
+let y= x++;
+let z = y++
+console.log(x,y,z)
+
+let x =5;
+let y= x++;
+let z = x++
+console.log(x,y,z)
+
+
+
+
+programming questions :
 can you write a syntax for loop
 disible by 3 - print fizz
 divisible by 5 - print buzz

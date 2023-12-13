@@ -84,3 +84,6 @@
 // console.log("1" + "2")
 
 // 14
+let num = 5 + "5" - 5
+console.log(num)
+console.log(typeof(num))
