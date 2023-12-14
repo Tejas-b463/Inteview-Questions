@@ -4,7 +4,7 @@ do you know about promise
 promises.all
 what is call back function **
 use call back
-What is DOM
+What is DOM*
 What is Hoisting in Js ****
 All the Variable move top of the code are all the variable declared with the var of the code
 what is closures ***
@@ -38,7 +38,9 @@ explain difference between == and === ***
 data types
 session storage and local storage - they are web apis**
 difference between splice and splice read array methods**
-difference between while loop and dowhile loop
+difference between while loop and dowhile loop*
+what does syncronus and asyncronus in js
+
 
 
 Output Questions :
