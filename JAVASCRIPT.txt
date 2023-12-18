@@ -36,10 +36,12 @@ comments in javascript
 purpose of using comments - make the code more readable.
 explain difference between == and === ***
 data types
-session storage and local storage - they are web apis**
 difference between splice and splice read array methods**
 difference between while loop and dowhile loop*
 what does syncronus and asyncronus in js
+how many type of loops in js
+differcence between local storage and session storage
+
 
 
 

@@ -3,6 +3,8 @@ Virtual DOM**
 difference between virtual and real dom and which is react using***
 difference between DOM Virtual and Real DOM****
 do you know reconcillation*
+
+
 One way data binding Data 
 highere order components  
 tell me about life cycle method ***
@@ -81,5 +83,4 @@ can you make a counter***
 Click the button increment and decrement*
 create same functionality in javascript. 
 
-how many type of loops in js
-differcence between local storage and session storage
+
