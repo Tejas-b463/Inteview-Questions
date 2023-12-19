@@ -1,8 +1,8 @@
-console.log(x)
+let x = 1;
 
+function getData() {
+    x++
+    return x;
 
-getData = () => {
-    console.log("React js")
-    let x = 4;
 }
 getData()

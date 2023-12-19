@@ -8,7 +8,7 @@ do you know reconcillation*
 One way data binding Data 
 highere order components  
 tell me about life cycle method ***
-do you know about jsx*
+do you know about jsx**
 browser directly understand jsx 
 do you about webpack
 what is raps
@@ -31,6 +31,7 @@ what are fragments
 difference between server side rendering and client side
 React Fiber
 difference between npm and npx
+what is transplier
 
 
 --- Basic React ---
@@ -43,6 +44,7 @@ which are the main features are react
 feature in react js
 folder structure used in your project
 why you are using react another framework
+calling api in your system - fetch , axios
 
 --- Props and State ---
 difference between state and props**
@@ -56,8 +58,13 @@ what is hooks*
 difference between usecallback and usememo
 can you gives example use effect use
 what is context api you use context api and why where use context api hooks*
+useContext hooks
 do you about more hooks
 Refs in React
+usecall hooks
+why useEffect
+why paramerter use in useEffect
+do you know useMemo
 
 --- Components ---
 define the state in class components
@@ -75,12 +82,15 @@ you familar with redux-toolkit,
 tell me about redux, 
 dispath in redux,
 what is dispatch 
-what is reducer,
+what is reducer*,
 how to decide fixed state put in redux and directly use
 
 Pratical - 
 can you make a counter***
 Click the button increment and decrement*
 create same functionality in javascript. 
+
+
+
 
 

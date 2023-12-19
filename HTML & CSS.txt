@@ -7,10 +7,11 @@ html tag and element
 Emmate tag
 Write Boiler Plate in html
 meta tag
+what is html tag
 
 CSS -
 Difference between Relative and Absolute*
-difference between margin and padding
+difference between margin and padding**
 difference between flex and grid
 difference between id and class
 what is flex box **
@@ -24,6 +25,7 @@ pseudo element and class
 position
 absolute url and relative url
 flex grow
+who will you give style in componenets
 
 TAsk -
 1. Center Div using position
