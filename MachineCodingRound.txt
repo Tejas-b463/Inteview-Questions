@@ -1,2 +1,9 @@
 1. Implement an infinite scroll -> loader, api call, data show, short, filter
-2. frontend for email app -->
+2. frontend for email app --> sent, important, star
+3. Make a calender app -> click meeting book
+
+Beginner
+1. Implement a tab -> hide, show
+2. Retrieve data from api - search implement, bookmark
+3. drag and drop app usage 
+4. questions regarding css - carousel
