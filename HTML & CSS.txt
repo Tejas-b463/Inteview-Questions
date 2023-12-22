@@ -26,8 +26,18 @@ position
 absolute url and relative url
 flex grow
 who will you give style in componenets
+which css priority interal, external and inline
 
 TAsk -
 1. Center Div using position
+2. make a form 
+input:username
+input:password
+button : submit
+media query above 768 - width - 100% 
+below - width - 50%
+and center a form vertical and horizontal
+3. two different images on laptop and mobile
+using responsive images
 
 

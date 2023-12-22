@@ -38,6 +38,7 @@ comments in javascript
 purpose of using comments - make the code more readable.
 explain difference between == and === ***
 data types in js
+Array Method*
 difference between splice and slice read array methods**
 difference between while loop and dowhile loop*
 what does syncronus and asyncronus in js
