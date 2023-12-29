@@ -40,13 +40,18 @@ explain difference between == and === ***
 data types in js
 Array Method*
 difference between splice and slice read array methods**
-difference between while loop and dowhile loop*
+difference between while loop and do while loop*
 what does syncronus and asyncronus in js
 how many type of loops in js
 differcence between local storage and session storage
 what is enums-
 what is self involving function
 differcence between ES6 and ES5
+get and post method
+
+how many type of loops in js
+differcence between local storage and session storage
+
 
 
 

@@ -82,5 +82,13 @@ can you make a counter***
 Click the button increment and decrement*
 create same functionality in javascript. 
 
-how many type of loops in js
-differcence between local storage and session storage
+difference between package.json and pacakge-lock.json
+tilde and curve
+cdn 
+crossorigin
+node modules
+npm 
+package
+bundle 
+parcel
+
