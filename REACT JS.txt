@@ -8,6 +8,7 @@ One way data binding Data
 highere order components  
 tell me about life cycle method ***
 do you know about jsx*
+
 browser directly understand jsx 
 do you about webpack
 what is raps
