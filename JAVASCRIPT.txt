@@ -17,7 +17,7 @@ how many scope in js
 call bind and apply*
 what is this keyword ****
 difference between arrow function and normal function **
-what is memorization
+what is memorization* - usememo / usecallback
 what is spread and rest operator
 difference between spread and rest operator
 let, const and var difference
