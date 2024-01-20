@@ -9,7 +9,7 @@ use call back
 What is DOM*
 What is Hoisting in Js ****
 how many parameters in Hoisting
-All the Variable move top of the code are all the variable declared with the var of the code
+All the Variable move top of the code the variable declared with the var of the code
 what is closures ***
 what is call back Hell
 map(), filter(), reduce() **** , forEach()
@@ -48,11 +48,11 @@ how many type of loops in js
 differcence between local storage and session storage*
 differcence between ES6 and ES5
 get and post method
-GET is used to request data from a specified resource.
-POST is used to send data to a server to create/update a resource.
 differcence between primitive and object
-what is varialbe hoisting and functional 
+what is variable hoisting and functional 
 https and http
+what is enums-
+how inheritance implementing in js
 
 
 
@@ -102,9 +102,8 @@ divisible by 5 - print buzz
 write the programme fibonacci series for 10 number.
 0 1 1 2 3 5 8 13 
 
-what is enums-
-how inheritance implementing in js
-how inheritance implementing in js
+
+
 
 
 
