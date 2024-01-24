@@ -29,7 +29,6 @@ arrow function is hoisted or not?
 what is high order function
 difference between set time out and set time interval**
 set interval function kind of loop so can you tell me what kind of loop finite and infinite popular functions used in js**
-tell me about shallow copy and deep copy in js
 async await ***
 undefined and null ***
 typeOf underfined and null
@@ -54,7 +53,8 @@ https and http
 what is enums-
 how inheritance implementing in js
 
-
+currying question
+1. sum(2)(6)(4)
 
 
 
@@ -62,7 +62,6 @@ how inheritance implementing in js
 
 Output Questions :
 2 == "2" 
-
 2 === "2"
 
 console.log(a);
