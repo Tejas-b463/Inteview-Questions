@@ -101,6 +101,15 @@ divisible by 5 - print buzz
 write the programme fibonacci series for 10 number.
 0 1 1 2 3 5 8 13 
 
+find key in obj like name and lastname
+const obj = {
+name:'tejas',
+lastname : 'banait'
+}
+if(key in obj){
+console.log(key)
+}
+
 
 
 
