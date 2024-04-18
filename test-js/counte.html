@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Count</h1>
+    <button onclick="Decrement()">+</button>
+    <p id="count">0</p>
+    <button onclick="Increment()">-</button>
+
+
+    <script>
+        let count = 0;
+
+        // function UpdateCount() {
+        //     document.getElementById('count').innerText = count;
+        // }
+
+        // function Decrement() {
+        //     count++
+        //     UpdateCount()
+        // }
+
+        // function Increment() {
+        //     count--
+        //     UpdateCount()
+        // }
+        for (var i = 0; i < 3; i++) {
+            setTimeout((j) => {
+                console.log(j);
+                setTimeout(() => console.log(j + 1), 1000);
+            }, i * 2000, i);
+        }
+    </script>
+</body>
+
+</html>
