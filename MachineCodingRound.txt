@@ -7,3 +7,4 @@ Beginner
 2. Retrieve data from api - search implement, bookmark
 3. drag and drop app usage 
 4. questions regarding css - carousel
+5. fetch Api
