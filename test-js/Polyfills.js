@@ -35,3 +35,15 @@ const filtering = arr1.myMap((arr) => {
 })
 
 console.log(filtering)
+
+
+// polyfills for reduce
+
+Array.prototype.myReduce = function(cb, initialValue) {
+    let acc = initialValue;
+    for (let i = 0; i < acc.length; i++) {
+        if (acc[i] === initialValue) {
+
+        }
+    }
+}
